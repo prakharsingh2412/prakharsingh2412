@@ -1,7 +1,7 @@
 # 💫 About Me:
-⚛️ React Frontend Developer passionate about building interactive and user-friendly web experiences
-🎮 Developed a Tic Tac Toe game in React, focusing on clean UI, efficient state management, and smooth user interactions
-🚀 Currently learning backend development with the goal of becoming a full-stack developer
+⚛️ React Frontend Developer passionate about building interactive and user-friendly web experiences <br>
+🎮 Developed a Tic Tac Toe game in React, focusing on clean UI, efficient state management, and smooth user interactions<br>
+🚀 Currently learning backend development with the goal of becoming a full-stack developer<br>
 💡 Enjoy turning ideas into engaging digital products and continuously improving my skills
 
 
