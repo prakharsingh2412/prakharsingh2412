@@ -7,22 +7,22 @@
   <img src="https://www.gitskins.com/api/section/hero?username=prakharsingh2412&theme=aurora&avatar=https%3A%2F%2Fgithub.com%2Fprakharsingh2412.png&variant=living-identity&label=Prakhar%20Singh&v=wow-living-identity-1&mode=dark" width="100%" alt="Prakhar Singh animated Living Identity portrait and ASCII name" />
 </picture>
 
-<p><strong>⚛️ React Frontend Developer</strong> · India</p>
+<p><strong> React Frontend Developer</strong> · India</p>
 <p>Building interactive, user-friendly web experiences — currently leveling up to full-stack.</p>
 <p><a href="https://github.com/prakharsingh2412">GitHub</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/prakhar-singh-ps87594/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:Prakharsingh98765432@gmail.com">Email</a></p>
 </div>
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<h2>💫 About Me</h2>
+<h2> About Me</h2>
 
 <table width="100%" style="display:table;width:100%;table-layout:fixed;">
 <tr>
 <td width="62%" valign="top">
-<p>⚛️ React Frontend Developer passionate about building interactive and user-friendly web experiences.</p>
-<p>🎮 Developed a <strong>Tic Tac Toe game in React</strong>, focusing on clean UI, efficient state management, and smooth user interactions.</p>
-<p>🚀 Currently learning <strong>backend development</strong> with the goal of becoming a full-stack developer.</p>
-<p>💡 Enjoy turning ideas into engaging digital products and continuously improving my skills.</p>
+<p> React Frontend Developer passionate about building interactive and user-friendly web experiences.</p>
+<p> Developed a <strong>Tic Tac Toe game in React</strong>, focusing on clean UI, efficient state management, and smooth user interactions.</p>
+<p> Currently learning <strong>backend development</strong> with the goal of becoming a full-stack developer.</p>
+<p> Enjoy turning ideas into engaging digital products and continuously improving my skills.</p>
 <p><strong>Focus:</strong> <code>React</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>TailwindCSS</code></p>
 <p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p>
 </td>
@@ -86,7 +86,7 @@
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<h2>🚀 Projects</h2>
+<h2>Projects</h2>
 
 <table width="100%">
 <tr>
@@ -105,7 +105,7 @@
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<h2>📊 GitHub Stats</h2>
+<h2>GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prakharsingh2412&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -121,7 +121,7 @@
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<h2>🐍 Contribution Snake</h2>
+<h2>Contribution Snake</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -131,7 +131,7 @@
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<h2>✍️ Random Dev Quote</h2>
+<h2>Random Dev Quote</h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
