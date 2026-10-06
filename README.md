@@ -3,11 +3,9 @@
 <p><sub>WOW PROFILE · PRAKHAR SINGH · LIVE</sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=prakharsingh2412&theme=aurora&avatar=https%3A%2F%2Fgithub.com%2Fprakharsingh2412.png&variant=living-identity&label=Prakhar%20Singh&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=prakharsingh2412&theme=aurora&avatar=https%3A%2F%2Fgithub.com%2Fprakharsingh2412.png&variant=living-identity&label=Prakhar%20Singh&v=wow-living-identity-1&mode=dark" width="100%" alt="Prakhar Singh animated Living Identity portrait and ASCII name" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=prakharsingh2412&theme=aurora&avatar=https%3A%2F%2Fraw.githubusercontent.com%2Fprakharsingh2412%2Fprakharsingh2412%2Fmain%2Fbanner.jpg&variant=living-identity&label=Prakhar%20Singh&v=wow-living-identity-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=prakharsingh2412&theme=aurora&avatar=https%3A%2F%2Fraw.githubusercontent.com%2Fprakharsingh2412%2Fprakharsingh2412%2Fmain%2Fbanner.jpg&variant=living-identity&label=Prakhar%20Singh&v=wow-living-identity-1&mode=dark" width="100%" alt="Prakhar Singh animated Living Identity portrait and ASCII name" />
 </picture>
-
-<img src="https://raw.githubusercontent.com/prakharsingh2412/prakharsingh2412/main/banner.jpg" width="100%" alt="Prakhar Singh banner" />
 
 <br /><br />
 
