@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_IMAGE_URL_HERE" width="100%" alt="Prakhar Singh banner" />
+<img src="https://raw.githubusercontent.com/prakharsingh2412/prakharsingh2412/main/banner.jpg" width="100%" alt="Prakhar Singh banner" />
 
 <br /><br />
 
